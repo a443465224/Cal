@@ -1,0 +1,306 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.cal.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="right|center"
+                    android:paddingLeft="6dp"
+                    android:text="每100克的千焦数：" />
+
+                <EditText
+                    android:id="@+id/qianJiao"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:gravity="right|center"
+                    android:paddingRight="6dp"
+                    android:textCursorDrawable="@drawable/edit_cursor_color"
+                    android:textSize="22sp"></EditText>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#88ff0000" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="right|center"
+                    android:paddingLeft="6dp"
+                    android:text="总克数：" />
+
+                <EditText
+                    android:id="@+id/zhongLian"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:gravity="right|center"
+                    android:paddingRight="6dp"
+                    android:textCursorDrawable="@drawable/edit_cursor_color"
+                    android:textSize="22sp"></EditText>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#88ff0000" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/jieGuo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/transparent" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="320dp"
+        android:orientation="vertical">
+
+        <View style="@style/HengXian" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/key7"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="7"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key8"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="8"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key9"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="9"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/keyDel"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="清除"
+                android:textColor="#444444" />
+        </LinearLayout>
+
+        <View style="@style/HengXian" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/key4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="4"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="5"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key6"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="6"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/reset"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="重置"
+                android:textColor="#444444" />
+        </LinearLayout>
+
+        <View style="@style/HengXian" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/key1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="1"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="2"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="3"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/keySwitch"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="切换"
+                android:textColor="#444444" />
+
+
+        </LinearLayout>
+
+        <View style="@style/HengXian" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+            <Button
+                android:id="@+id/key0"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector"
+                android:text="0"
+                android:textColor="#444444" />
+
+            <View style="@style/ShuXian" />
+
+
+            <Button
+                android:id="@+id/okBtn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@drawable/selector"
+                android:text="换算"
+                android:textColor="#444444" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

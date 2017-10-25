@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Cal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector.xml",
+        "source": "D:\\Cal\\app\\src\\main\\res\\drawable-hdpi\\selector.xml"
+    },
+    {
+        "merged": "D:\\Cal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_cursor_color.xml",
+        "source": "D:\\Cal\\app\\src\\main\\res\\drawable-hdpi\\edit_cursor_color.xml"
+    }
+]

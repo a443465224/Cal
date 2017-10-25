@@ -1,0 +1,10 @@
+#Wed Oct 25 15:06:08 CST 2017
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.2=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5328d54179f0243a6ba43cad7a7534652d31f5c3
+base.1=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_925875d9448dd345587cabdb9a56f4834d2efae9
+base.0=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_17201932f3acb65125de0daddbfcc551e9b468f8
+file.2=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5328d54179f0243a6ba43cad7a7534652d31f5c3\\classes.dex
+file.1=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_925875d9448dd345587cabdb9a56f4834d2efae9\\classes.dex
+file.0=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_17201932f3acb65125de0daddbfcc551e9b468f8\\classes.dex

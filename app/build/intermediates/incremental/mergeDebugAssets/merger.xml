@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Administrator\.android\build-cache\96deed70752748320a60462e186b838cd18a20fa\output\assets"/></dataSet><dataSet config="main"><source path="D:\Cal\app\src\main\assets"/><source path="D:\Cal\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Cal\app\src\debug\assets"/></dataSet></merger>

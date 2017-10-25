@@ -1,0 +1,7 @@
+#Wed Oct 25 15:27:49 CST 2017
+base.0=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_935fc0c317dbf64738083746d59db2b88bbc63ff
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15e91a05499a44a677f17dc0569858204fbae704\\classes.dex
+base.1=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15e91a05499a44a677f17dc0569858204fbae704
+file.0=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_935fc0c317dbf64738083746d59db2b88bbc63ff\\classes.dex

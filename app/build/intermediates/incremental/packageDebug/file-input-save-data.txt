@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Oct 25 15:27:49 CST 2017
+2.base=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_935fc0c317dbf64738083746d59db2b88bbc63ff
+5.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=DEX
+4.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\selector.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15e91a05499a44a677f17dc0569858204fbae704\\classes.dex
+1.set=DEX
+7.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_935fc0c317dbf64738083746d59db2b88bbc63ff\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Cal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15e91a05499a44a677f17dc0569858204fbae704
+4.file=D\:\\Cal\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\edit_cursor_color.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
